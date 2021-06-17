@@ -1,2 +1,9 @@
 //hey eliot complete this main method create one array of string 
 //end add values of football player name
+//i am writing methotd for creating array.
+private static String[]  arrayMaker()
+{
+  String[] arr = {"Messi", "Ronaldo", "Kante", "Suarez", "Mbappe"};
+  return arr;
+}
+//i completed my work.
