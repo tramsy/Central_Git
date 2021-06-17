@@ -1,8 +1,2 @@
-class Test
-{
-  public static void main(String[] args)
-  {
-    System.out.println("Hello Eliot");
-  }
-}
-
+//hey eliot complete this main method create one array of string 
+//end add values of football player name
